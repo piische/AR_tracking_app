@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Bexin" size="0.100000 0.050647" />
+    <ImageTarget name="Zaldiar" size="0.080000 0.062063" />
+    <ImageTarget name="Motilium" size="0.093000 0.053223" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,18 @@
+This video shows the basic features of the MoleculeViewer Application for the Hololens 1.
+
+Key Features:
+
+* Image Recognition
+* User Interface Board for Infos
+
+* Dragable Objects
+* Movable Objectss
+* Sizeable Objects
+
+* Interactive Buttons
+* Speech Triggers
+* Reset of the Scene
+
+ *** Notice that the voice command resets the UI Board to its application start up position / spawn destination.
+
+
